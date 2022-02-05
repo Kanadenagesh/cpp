@@ -16,7 +16,7 @@ int main(){
 	cout<<"original value of a: "<<a<<endl;
 	add(a,b);
 	cout<<"addition: "<<c<<endl;
-  cout<<"after call: "<<a<<endl;
+        cout<<"after call: "<<a<<endl;
 
 	return 0;
 }
