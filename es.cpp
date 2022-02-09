@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 
-	//escape sequences represents nono printable characters and specify actions
+	//escape sequences represents non printable characters and specify actions
 
 	cout<<"Hello\tWotld"<<endl;
 	cout<<"programmers\'s life"<<endl;
